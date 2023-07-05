@@ -1,0 +1,13 @@
+.Blog{
+    max-width:1200px;
+    margin:0 auto;
+    display: grid;
+    grid-template:1fr 1fr/ 1fr 1fr 1fr;
+}
+.Blog>div>img{
+    /* max-width:50vw; */
+    width: 100%;
+}
+.Blog .blog1{
+    grid-row: 1 / 3;
+}

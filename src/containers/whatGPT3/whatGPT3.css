@@ -1,9 +1,6 @@
 .whatGPT3 .middle{
     display: flex;
     justify-content: space-between;
-    background: -webkit-linear-gradient(#AE67FA, #F49867);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 
 /* .whatGPT3 .middle>h2{

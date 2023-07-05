@@ -16,7 +16,7 @@ export default function Navbar() {
         <li>Library</li>
       </ul>
       <div className='flex navbarButtons' >
-        <button>SignIn</button>
+        <h5>SignIn</h5>
         <button>SignUp</button>
       </div>
     </div>

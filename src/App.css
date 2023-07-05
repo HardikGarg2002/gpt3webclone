@@ -20,4 +20,12 @@
 .App{
     background-color:#040C18;
     color:white;
+    position:absolute;
+    top:0;
+    font-family: 'Manrope', sans-serif;
+}
+.gradient-text{
+    background: -webkit-linear-gradient(#AE67FA, #F49867);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }

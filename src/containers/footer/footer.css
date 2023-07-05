@@ -1,0 +1,9 @@
+.footerBottom p{
+    color: #FFF;
+    font-size: 0.75rem;
+    font-family: Gilroy-Medium;
+    font-weight: 400;
+}
+.footerBottom{
+    justify-content: space-evenly;
+}

@@ -1,3 +1,13 @@
 .brand{
     justify-content: center;
+    gap: 20px;
+    margin : 25px auto;
+    max-width:95vw;
+    margin-top:50px;
+}
+
+@media (max-width:800px){
+    .brand{
+        flex-wrap: wrap;
+    }
 }
