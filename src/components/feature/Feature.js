@@ -1,9 +1,14 @@
 import React from 'react'
-
-export default function Feature() {
+import './feature.css'
+export default function Feature(props) {
   return (
-    <div>
-      Feature
+    <div className={`feature flex ${props.direction}`} >
+      <div>
+        <div className='smallLine'></div>
+        <h3>{props.heading}</h3>
+      </div>
+      
+      <p>{props.para}</p>
     </div>
   )
 }

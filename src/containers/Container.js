@@ -1,5 +1,5 @@
 export {default as Blog} from './blog/Blog.js';
-export {default as Features} from './features/Features.js'
+export {default as FeaturesSection} from './featuresSection/FeaturesSection.js'
 export {default as Footer} from './footer/Footer.js'
 export {default as Header} from './header/Header.js'
 export {default as Possibility} from './possibility/Possibility.js'

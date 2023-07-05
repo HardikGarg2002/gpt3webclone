@@ -1,0 +1,11 @@
+.feature .smallLine{
+    width: 2rem;
+    height: 0.1875rem;
+    background: linear-gradient(143deg, #AE67FA 0%, #F49867 97.40%), #FFF;
+}
+.feature>div{
+    flex-basis: 30%;
+}
+.feature.column{
+    flex-direction: column;
+}

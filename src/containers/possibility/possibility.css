@@ -1,0 +1,14 @@
+.possibility img{
+    /* width:50%; */
+    /* height: 50vh; */
+}
+
+.possibility{
+    max-width:1000px;
+    margin: 25px auto;
+    height: 80vh;
+}
+.possibilityDiv{
+    flex-direction: column;
+    justify-content: flex-end;
+}

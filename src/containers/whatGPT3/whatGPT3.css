@@ -1,0 +1,21 @@
+.whatGPT3 .middle{
+    display: flex;
+    justify-content: space-between;
+    background: -webkit-linear-gradient(#AE67FA, #F49867);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* .whatGPT3 .middle>h2{
+    background: -webkit-linear-gradient(#AE67FA, #F49867);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} */
+.whatGPT3{
+    max-width:1000px;
+    margin: 25px auto;
+    flex-direction: column;
+    height:75vh;
+    width:75vw;
+    justify-content: space-evenly;
+}

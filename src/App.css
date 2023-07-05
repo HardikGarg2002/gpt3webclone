@@ -16,3 +16,8 @@
     left:50%;
     transform: translateX(-50%);
 }
+
+.App{
+    background-color:#040C18;
+    color:white;
+}
