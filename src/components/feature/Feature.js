@@ -5,7 +5,7 @@ export default function Feature(props) {
     <div className={`feature flex ${props.direction}`} >
       <div>
         <div className='smallLine'></div>
-        <h3>{props.heading}</h3>
+        <h3 >{props.heading}</h3>
       </div>
       
       <p>{props.para}</p>

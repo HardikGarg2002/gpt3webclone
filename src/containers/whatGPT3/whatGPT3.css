@@ -2,17 +2,18 @@
     display: flex;
     justify-content: space-between;
 }
+.whatGPT3 .middle h2 {
+    flex-basis: 50%;
+  }
 
-/* .whatGPT3 .middle>h2{
-    background: -webkit-linear-gradient(#AE67FA, #F49867);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-} */
 .whatGPT3{
-    max-width:1000px;
+    max-width:1100px;
     margin: 25px auto;
+    margin-top:0px;
     flex-direction: column;
     height:75vh;
-    width:75vw;
+    width:90vw;
     justify-content: space-evenly;
+    background-color: #0F4279;
+    padding: 0 7vh;
 }

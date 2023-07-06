@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className='footer'>
       <h1 className='gradient-text'>Do you want to step in to the future before others</h1>
-      <div>Request Early Access</div>
+      <div className='button center'>Request Early Access</div>
       <div className='footerBottom flex'>
         <div>
           <img src={gpt3} />

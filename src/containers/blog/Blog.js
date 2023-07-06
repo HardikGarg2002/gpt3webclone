@@ -15,41 +15,51 @@ function Blog() {
 
       <div className='blog1'> 
         <img src={blog1} />
-        <p>Sep 26, 2021</p>
-        <h5>GPT-3 and Open  AI is the future. Let us exlore how it is?</h5>
-        <p>Read Full Article</p>
+        <div>
+          <p>Sep 26, 2021</p>
+          <h4>GPT-3 and Open  AI is the future. Let us exlore how it is?</h4>
+          <p className='read-more'>Read Full Article</p>
+        </div>
       </div>
 
 
       <div> 
         <img src={blog2} />
-        <p>Sep 26, 2021</p>
-        <h5>GPT-3 and Open  AI is the future. Let us exlore how it is?</h5>
-        <p>Read Full Article</p>
+        <div>
+          <p>Sep 26, 2021</p>
+          <h4>GPT-3 and Open  AI is the future. Let us exlore how it is?</h4>
+          <p>Read Full Article</p>
+        </div>
       </div>
 
 
       <div> 
         <img src={blog3} />
-        <p>Sep 26, 2021</p>
-        <h5>GPT-3 and Open  AI is the future. Let us exlore how it is?</h5>
-        <p>Read Full Article</p>
+        <div>
+          <p>Sep 26, 2021</p>
+          <h4>GPT-3 and Open  AI is the future. Let us exlore how it is?</h4>
+          <p>Read Full Article</p>
+        </div>
       </div>
 
 
       <div> 
         <img src={blog4} />
-        <p>Sep 26, 2021</p>
-        <h5>GPT-3 and Open  AI is the future. Let us exlore how it is?</h5>
-        <p>Read Full Article</p>
+          <div>
+          <p>Sep 26, 2021</p>
+          <h4>GPT-3 and Open  AI is the future. Let us exlore how it is?</h4>
+          <p>Read Full Article</p>
+        </div>
       </div>
 
 
       <div> 
         <img src={blog5} />
-        <p>Sep 26, 2021</p>
-        <h5>GPT-3 and Open  AI is the future. Let us exlore how it is?</h5>
-        <p>Read Full Article</p>
+          <div>
+          <p>Sep 26, 2021</p>
+          <h4>GPT-3 and Open  AI is the future. Let us exlore how it is?</h4>
+          <p>Read Full Article</p>
+        </div>
       </div>
 
     </div>

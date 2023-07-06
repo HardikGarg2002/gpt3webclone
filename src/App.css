@@ -23,9 +23,15 @@
     position:absolute;
     top:0;
     font-family: 'Manrope', sans-serif;
+    width:98.5vw;
 }
 .gradient-text{
     background: -webkit-linear-gradient(#AE67FA, #F49867);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+h1{
+    max-width: 1100px;
+    margin:0 auto;
+    margin-bottom: 10vh;
 }

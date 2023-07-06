@@ -1,0 +1,16 @@
+*** Giving color gradient to some text 
+ refer website: https://css-tricks.com/snippets/css/gradient-text/
+
+*** Best way to make side margins in whole website
+        max-width:1150px;
+        margin:0 auto;
+    Do this for all the containers
+
+
+*** Create two folders Containers and Components
+        Container should have large blocks and components me small piece of website daal Do
+
+*** Best way to manage import and export statements from them is 
+        import all the components in one JS file and then export from there
+        EX: {./src/components/Components.JS}
+        

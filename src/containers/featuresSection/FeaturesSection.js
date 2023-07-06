@@ -5,11 +5,11 @@ import { Feature } from '../../components/Components'
 function FeaturesSection() {
   return (
     <div className='features flex'>
-      <div>
-        <h2>The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h2>
-        <p>Request Early Access to Get Started</p>
+      <div className='features1'>
+        <h2 className='gradient-text'>The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h2>
+        <p className='gradient-text'>Request Early Access to Get Started</p>
       </div>
-      <div>
+      <div className='features2 flex'>
         <Feature heading='Improving end distrusts instantly ' para='From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.' />
         <Feature heading='Become the tended active' para='Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.' />
         <Feature heading='Message or am nothing' para='Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.' />

@@ -5,10 +5,16 @@
 
 .possibility{
     max-width:1000px;
+    width: 80vw;
     margin: 25px auto;
-    height: 80vh;
+    height: 75vh;
 }
 .possibilityDiv{
     flex-direction: column;
     justify-content: flex-end;
+    gap:25px;
+    /* width:80%; */
+    /* flex-basis: 50%; */
+    padding-bottom: 25px;
+    padding-left: 45px;
 }

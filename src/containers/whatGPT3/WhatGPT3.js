@@ -9,7 +9,7 @@ function WhatGPT3() {
       </div>
       <div className='middle'>
         <h2 className='gradient-text'>The possibilities are beyond your imagination</h2>
-        <p>Explore The Library</p>
+        <p className='gradient-text'>Explore The Library</p>
       </div>
       <div className='flex'>
         <Feature heading='Chatbots' para='We so opinion friends me message as delight. Whole front do of plate heard oh ought. ' direction='column'/>
