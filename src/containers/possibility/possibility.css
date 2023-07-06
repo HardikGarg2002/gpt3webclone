@@ -1,4 +1,5 @@
-.possibility img{
+.possibility img:hover{
+    -webkit-filter: brightness(150%);
     /* width:50%; */
     /* height: 50vh; */
 }

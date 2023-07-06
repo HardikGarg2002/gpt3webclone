@@ -5,7 +5,10 @@
     max-width:95vw;
     margin-top:50px;
 }
-
+.brand img:hover{
+    transform: scale(1.2);
+    
+}
 @media (max-width:800px){
     .brand{
         flex-wrap: wrap;

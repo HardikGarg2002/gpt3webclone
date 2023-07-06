@@ -16,6 +16,8 @@
     /* margin:0 auto; */
     display: inline-block;
     margin-bottom: 15vh;
+    border: 1px solid #FFF;
+    padding:1rem;
 }
 
 .footerBottom p{

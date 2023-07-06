@@ -9,6 +9,16 @@
 
 .header>img{
     max-width:40vw;
+    animation: myfirst 5s linear infinite alternate;
+
+}
+
+@keyframes myfirst {
+  0%   {transform: scale(1);}
+  25%  {transform: scale(1.05);}
+  50%  {transform: scale(1.1);}
+  75%  {transform: scale(1.15);}
+  100% {transform: scale(1.2);}
 }
 .header h1{
     font-size: 3rem;
